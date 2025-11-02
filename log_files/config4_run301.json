@@ -1,0 +1,6 @@
+{
+  "configuration": "config4",
+  "run": 301,
+  "runtime": 0.0,
+  "status": "SEGFAULT"
+}
